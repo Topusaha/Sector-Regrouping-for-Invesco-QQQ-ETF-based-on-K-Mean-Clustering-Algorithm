@@ -1,1 +1,5 @@
-# Sector-Regrouping-for-Invesco-QQQ-ETF-based-on-K-Mean-Clustering-Algorithm
+Sector-Regrouping-for-Invesco-QQQ-ETF-based-on-K-Mean-Clustering-Algorithm is a summer research proposal for New Jersey City University STEM Internship program. This Repo serves as the folder for supplementary information for the project. This Repo contains the Notebook code, the Webstie created by Weikang Kong, the research paper, and the powerpoint presentation. 
+
+The next section is the Acknowledgment. 
+I like to dedicate this portion to express my gratitude to all parties involved in helping with this research. Firstly, thank you New Jersey City University for allowing me to be involved in the Summer Stem Internship. I would also like to give thanks to my mentor Dr. Nan Wang for guiding me through this experience and Weikang Kong for developing the website for this research project. Last but not least, I would like to acknowledge the US Education Department Title III Part F HSI-STEM Grant # P031C160155 and US Education Department Title V DHSI Grant # P031S200124 for their generous grant offers.
+
